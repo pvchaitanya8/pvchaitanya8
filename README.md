@@ -1,12 +1,8 @@
-## GitHub Profile
+<h1 align="center">Hi 👋, I'm P. V. Chaitanya</h1>
 
-Hi! I'm [your name], a programmer with a passion for solving problems. I'm currently working on [your current project(s)], and I'm always looking for new challenges.
+- 💻 I'm a Passionate Programmer and Tech enthusiast
 
-I'm also a big fan of LeetCode, and I've solved [your LeetCode count] problems so far. I'm always looking to improve my skills, so I'm always working on solving more problems.
+- 📫 You can contact me through [LinkedIn](https://www.linkedin.com/in/chaitanya-venkata-a5a908212/)
 
 ## LeetCode
-
-![LeetCode Stats](https://leetcode.com/api/users/venkatachaitanya373/badge/stats.svg)
-## Contact
-
-If you have any questions or would like to collaborate, please feel free to contact me at [your email address] or [your LinkedIn profile URL].
+[![](https://leetcard.jacoblin.cool/venkatachaitanya373?theme=dark)](https://leetcode.com/venkatachaitanya373/)
