@@ -5,4 +5,7 @@
 - 📫 You can contact me through [LinkedIn](https://www.linkedin.com/in/chaitanya-venkata-a5a908212/)
 
 ## LeetCode
-[![](https://leetcard.jacoblin.cool/venkatachaitanya373?theme=dark)](https://leetcode.com/venkatachaitanya373/)
+[![Chaitanya's LeetCode stats](https://leetcard.jacoblin.cool/venkatachaitanya373?theme=dark)](https://leetcode.com/venkatachaitanya373/)
+
+## Geek For Geeks
+[![Chaitanya's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=venkatachaitanya373)](https://auth.geeksforgeeks.org/user/venkatachaitanya373)
