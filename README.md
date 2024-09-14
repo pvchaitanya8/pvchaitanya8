@@ -1,40 +1,58 @@
 ---
 
-<h1 align="center">Hi 👋, I'm P. V. Chaitanya</h1>
+<h1 align="center">Hi there 👋, I'm P. V. Chaitanya</h1>
 
 <p align="center">
-  💻 <em>Programmer & Tech Enthusiast</em>
+  💻 <strong>Programmer & Tech Enthusiast</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chaitanya-venkata-a5a908212/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/chaitanya-venkata-a5a908212/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/venkatachaitanya373/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-%23FF8C00?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  <a href="https://leetcode.com/venkatachaitanya373/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-%23FF8C00?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/venkatachaitanya373">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks"/>
+  <a href="https://auth.geeksforgeeks.org/user/venkatachaitanya373" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
   </a>
 </p>
 
 ---
 
-## 🚀 Stats:
-| **LeetCode** | **GeeksforGeeks** |
-|:------------:|:-----------------:|
-| [![LeetCode Stats](https://leetcard.jacoblin.cool/venkatachaitanya373?theme=dark)](https://leetcode.com/venkatachaitanya373/) | [![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=venkatachaitanya373)](https://auth.geeksforgeeks.org/user/venkatachaitanya373) |
+## 🚀 Performance Stats:
+<div align="center">
+  <table>
+    <tr>
+      <th>LeetCode</th>
+      <th>GeeksforGeeks</th>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://leetcode.com/venkatachaitanya373/"><img src="https://leetcard.jacoblin.cool/venkatachaitanya373?theme=dark" alt="LeetCode Stats" /></a></td>
+      <td align="center"><a href="https://auth.geeksforgeeks.org/user/venkatachaitanya373"><img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=venkatachaitanya373" alt="GeeksforGeeks Stats" /></a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 📊 GitHub Stats:
-| **Overall Stats** | **Current Streak** | **Top Languages** |
-|:-----------------:|:------------------:|:-----------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvchaitanya8&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvchaitanya8&theme=dark&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvchaitanya8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+<div align="center">
+  <table>
+    <tr>
+      <th>Overall Stats</th>
+      <th>Current Streak</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=pvchaitanya8&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /></td>
+      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pvchaitanya8&theme=dark&hide_border=false" alt="GitHub Streak" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🌐 [Portfolio](https://pvchaitanya8.github.io/portfolio/)
-Check out [my portfolio](https://pvchaitanya8.github.io/portfolio/) for more about my projects and achievements!
+Explore [my portfolio](https://pvchaitanya8.github.io/portfolio/) to learn more about my projects, achievements, and experience.
 
 ---
