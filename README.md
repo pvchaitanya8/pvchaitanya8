@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm P. V. Chaitanya</h1>
 
 <p align="center">
-  💻 <strong>Programmer & Tech Enthusiast</strong>
+  💻 <strong>AI/ML SDE & Tech Enthusiast</strong>
 </p>
 
 <p align="center">
