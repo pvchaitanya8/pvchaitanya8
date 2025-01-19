@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there 👋, I'm P. V. Chaitanya</h1>
-
 <p align="center">
-  💻 <strong>AI/ML SDE & Tech Enthusiast</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=💻+AI/ML+SDE+and+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
