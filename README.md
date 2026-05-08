@@ -15,6 +15,8 @@
   <a href="https://auth.geeksforgeeks.org/user/venkatachaitanya373" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
   </a>
+  <a href="https://chaitanya-p-v-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-%2300009c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />  </a>
 </p>
 
 ---
@@ -39,10 +41,21 @@
   </table>
 </div>
 
----
-
-## 🌐 [Portfolio](https://pvchaitanya8.github.io/portfolio/)
-
-Explore [my portfolio](https://pvchaitanya8.github.io/portfolio/) to learn more about my projects, achievements, and experience.
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/pvchaitanya8/pvchaitanya8/output/github-snake-dark.svg" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/pvchaitanya8/pvchaitanya8/output/github-snake.svg" 
+    />
+    <img 
+      alt="GitHub contribution snake animation" 
+      src="https://raw.githubusercontent.com/pvchaitanya8/pvchaitanya8/output/github-snake.svg" 
+    />
+  </picture>
+</p>
 
 ---
