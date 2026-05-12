@@ -31,9 +31,9 @@
   About Me
 </h2>
 
-- ⛩️ Currently working on: A local-first, AI-powered cognitive workspace
-- 🌱 Core Stack: Backend Development, AI/ML, and Cloud Infrastructure
-- 📫 Feel free to reach out via mail at venkatachaitanya373@gmail.com !
+- ⛩️ Currently working on: A local-first, AI-powered cognitive workspace.
+- 🌱 Core Stack: Backend Development, AI/ML, and Cloud Infrastructure.
+- 📫 Feel free to reach out via mail at venkatachaitanya373@gmail.com!
 
 ---
 
@@ -78,7 +78,7 @@
 <p align="center">
   <a href="https://chaitanya-p-v-portfolio.vercel.app/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Check-My_Portfolio-%232563eb?style=for-the-badge&logo=vercel&logoColor=white" 
+      src="https://img.shields.io/badge/Check-My_Portfolio-%230000ff?style=for-the-badge&logo=vercel&logoColor=white" 
       alt="Check my Portfolio" 
     />
   </a>
