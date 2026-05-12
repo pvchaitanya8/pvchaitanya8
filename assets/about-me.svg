@@ -1,34 +1,70 @@
 <svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#2563EB" flood-opacity="0.25"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#2563EB" flood-opacity="0.22"/>
     </filter>
+
+    <linearGradient id="shootingTrail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60A5FA" stop-opacity="0"/>
+      <stop offset="0.7" stop-color="#BFDBFE" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#EFF6FF" stop-opacity="1"/>
+    </linearGradient>
   </defs>
 
-  <g filter="url(#softShadow)">
+  <!-- tiny clean stars -->
+  <g fill="#BFDBFE">
+    <path d="M9 10L9.8 11.8L11.6 12.6L9.8 13.4L9 15.2L8.2 13.4L6.4 12.6L8.2 11.8L9 10Z" opacity="0.75">
+      <animate attributeName="opacity" values="0.35;0.9;0.35" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M39 8L39.6 9.3L41 10L39.6 10.7L39 12L38.4 10.7L37 10L38.4 9.3L39 8Z" opacity="0.6">
+      <animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M41 33L41.7 34.5L43.2 35.2L41.7 35.9L41 37.4L40.3 35.9L38.8 35.2L40.3 34.5L41 33Z" opacity="0.55">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- one subtle shooting star -->
+  <g opacity="0">
+    <line
+      x1="-10"
+      y1="17"
+      x2="10"
+      y2="17"
+      stroke="url(#shootingTrail)"
+      stroke-width="1.4"
+      stroke-linecap="round"
+    />
+    <path
+      d="M11 14.8L11.7 16.3L13.2 17L11.7 17.7L11 19.2L10.3 17.7L8.8 17L10.3 16.3L11 14.8Z"
+      fill="#EFF6FF"
+    />
+
     <animateTransform
       attributeName="transform"
       type="translate"
-      values="0 0; 0 -2; 0 0"
-      dur="1.8s"
+      values="0 0; 52 6"
+      dur="3.6s"
       repeatCount="indefinite"
     />
 
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      values="0 24 24; -5 24 24; 0 24 24; 5 24 24; 0 24 24"
-      dur="2.4s"
+    <animate
+      attributeName="opacity"
+      values="0;0;0.8;0"
+      dur="3.6s"
       repeatCount="indefinite"
-      additive="sum"
     />
-
-    <text
-      x="50%"
-      y="50%"
-      dominant-baseline="central"
-      text-anchor="middle"
-      font-size="32"
-    >🔭</text>
   </g>
+
+  <!-- stable telescope emoji -->
+  <text
+    x="50%"
+    y="50%"
+    dominant-baseline="central"
+    text-anchor="middle"
+    font-size="32"
+    filter="url(#softShadow)"
+  >🔭</text>
 </svg>
