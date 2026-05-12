@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
   </a>
   <a href="https://chaitanya-p-v-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-%2300009c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />  </a>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-%230000ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />  </a>
 </p>
 
 ---
@@ -31,8 +31,8 @@
   About Me
 </h2>
 
-- ⛩️ Currently working on: A local-first, AI-powered cognitive workspace.
-- 🌱 Core Stack: Backend Development, AI/ML, and Cloud Infrastructure.
+- ⛩️ I'm currently working on: A local-first, AI-powered cognitive workspace.
+- 🌱 My Core Stack: Backend Development, AI/ML, and Cloud Infrastructure.
 - 📫 Feel free to reach out via mail at venkatachaitanya373@gmail.com!
 
 ---
