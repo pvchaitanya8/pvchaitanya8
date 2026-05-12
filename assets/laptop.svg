@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <style>
+    .screen {
+      animation: glow 1.8s ease-in-out infinite alternate;
+    }
+
+    @keyframes glow {
+      from { filter: drop-shadow(0 0 1px #38bdf8); opacity: 0.85; }
+      to { filter: drop-shadow(0 0 8px #38bdf8); opacity: 1; }
+    }
+  </style>
+
+  <text class="screen" x="4" y="32" font-size="30">💻</text>
+</svg>
