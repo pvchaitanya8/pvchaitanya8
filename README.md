@@ -69,6 +69,8 @@
   </picture>
 </p>
 
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,50:2563eb,100:0f172a" width="70%" />
 </p>
