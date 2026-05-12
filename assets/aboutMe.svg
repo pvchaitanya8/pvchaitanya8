@@ -4,61 +4,71 @@
       <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#2563EB" flood-opacity="0.22"/>
     </filter>
 
-    <linearGradient id="shootingTrail" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#60A5FA" stop-opacity="0"/>
-      <stop offset="0.7" stop-color="#BFDBFE" stop-opacity="0.7"/>
+      <stop offset="0.7" stop-color="#BFDBFE" stop-opacity="0.55"/>
       <stop offset="1" stop-color="#EFF6FF" stop-opacity="1"/>
     </linearGradient>
   </defs>
 
-  <!-- tiny clean stars -->
   <g fill="#BFDBFE">
-    <path d="M9 10L9.8 11.8L11.6 12.6L9.8 13.4L9 15.2L8.2 13.4L6.4 12.6L8.2 11.8L9 10Z" opacity="0.75">
-      <animate attributeName="opacity" values="0.35;0.9;0.35" dur="2.4s" repeatCount="indefinite"/>
+    <path d="M9 9L9.7 10.7L11.4 11.4L9.7 12.1L9 13.8L8.3 12.1L6.6 11.4L8.3 10.7L9 9Z">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
     </path>
 
-    <path d="M39 8L39.6 9.3L41 10L39.6 10.7L39 12L38.4 10.7L37 10L38.4 9.3L39 8Z" opacity="0.6">
-      <animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.8s" repeatCount="indefinite"/>
+    <path d="M40 34L40.6 35.4L42 36L40.6 36.6L40 38L39.4 36.6L38 36L39.4 35.4L40 34Z">
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="2.9s" repeatCount="indefinite"/>
     </path>
-
-    <path d="M41 33L41.7 34.5L43.2 35.2L41.7 35.9L41 37.4L40.3 35.9L38.8 35.2L40.3 34.5L41 33Z" opacity="0.55">
-      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.1s" repeatCount="indefinite"/>
+    
+    <path d="M32 10L32.5 11.2L33.8 11.7L32.5 12.2L32 13.4L31.5 12.2L30.2 11.7L31.5 11.2L32 10Z">
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.5s" repeatCount="indefinite"/>
     </path>
   </g>
 
-  <!-- one subtle shooting star -->
   <g opacity="0">
-    <line
-      x1="-10"
-      y1="17"
-      x2="10"
-      y2="17"
-      stroke="url(#shootingTrail)"
-      stroke-width="1.4"
-      stroke-linecap="round"
-    />
-    <path
-      d="M11 14.8L11.7 16.3L13.2 17L11.7 17.7L11 19.2L10.3 17.7L8.8 17L10.3 16.3L11 14.8Z"
-      fill="#EFF6FF"
-    />
-
     <animateTransform
       attributeName="transform"
       type="translate"
-      values="0 0; 52 6"
+      values="-30 0; 70 35"
       dur="3.6s"
       repeatCount="indefinite"
     />
-
     <animate
       attributeName="opacity"
-      values="0;0;0.8;0"
+      values="0;0.9;0.9;0;0"
+      keyTimes="0;0.15;0.55;0.7;1"
       dur="3.6s"
       repeatCount="indefinite"
     />
+    <g transform="rotate(19.3)">
+      <line x1="0" y1="0" x2="16" y2="0" stroke="url(#trail)" stroke-width="1.3" stroke-linecap="round"/>
+      <path d="M16 -2.5L16.7 -0.6L18.5 0L16.7 0.6L16 2.5L15.3 0.6L13.5 0L15.3 -0.6Z" fill="#EFF6FF"/>
+    </g>
   </g>
 
-  <!-- stable telescope emoji -->
+  <g opacity="0">
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="-30 10; 70 50"
+      dur="4.2s"
+      begin="1.5s"
+      repeatCount="indefinite"
+    />
+    <animate
+      attributeName="opacity"
+      values="0;0.75;0.75;0;0"
+      keyTimes="0;0.15;0.55;0.7;1"
+      dur="4.2s"
+      begin="1.5s"
+      repeatCount="indefinite"
+    />
+    <g transform="rotate(21.8)">
+      <line x1="0" y1="0" x2="12" y2="0" stroke="url(#trail)" stroke-width="1.1" stroke-linecap="round"/>
+      <path d="M12 -2L12.5 -0.5L14 0L12.5 0.5L12 2L11.5 0.5L10 0L11.5 -0.5Z" fill="#DBEAFE"/>
+    </g>
+  </g>
+
   <text
     x="50%"
     y="50%"
