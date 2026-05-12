@@ -33,7 +33,7 @@
 
 - ⛩️ I'm currently working on: A local-first, AI-powered cognitive workspace.
 - 🌱 My Core Stack: Backend Development, AI/ML, and Cloud Infrastructure.
-- 📫 Feel free to reach out via mail at venkatachaitanya373@gmail.com!
+- 📫 Feel free to reach out at venkatachaitanya373@gmail.com!
 
 ---
 
