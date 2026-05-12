@@ -72,27 +72,36 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,50:2563eb,100:0f172a" width="70%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,30:2563eb,70:2563eb,100:0f172a" 
+    width="72%" 
+    alt="Footer divider"
+  />
 </p>
 
-<p align="center">
+<div align="center">
+
   <a href="https://chaitanya-p-v-portfolio.vercel.app/" target="_blank">
     <img 
       src="https://img.shields.io/badge/Check-My_Portfolio-%230000ff?style=for-the-badge&logo=vercel&logoColor=white" 
-      alt="Check my Portfolio" 
+      alt="Explore My Portfolio" 
     />
   </a>
-</p>
 
-<p align="center">
-  <img src="./assets/gear.svg" width="18" alt="Gear" />
+  <br />
+  <br />
+
   <sub>
-    Experiments in AI, systems, and clean engineering.
+    <img src="./assets/gear.svg" width="16" alt="Gear" />
+    Building experiments across AI, systems, and clean engineering.
   </sub>
-</p>
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,50:2563eb,100:0f172a" width="70%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,30:2563eb,70:2563eb,100:0f172a" 
+    width="72%" 
+    alt="Footer divider"
+  />
 </p>
-
----
