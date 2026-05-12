@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋, I'm P. V. Chaitanya</h1>
+<h1 align="center">
+  <img src="./assets/wave.svg" width="34" alt="Waving hand" />
+   Hi there, I'm P. V. Chaitanya
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=40&lines=💻+AI%2FML+Software+Developer;⚙️+Building+clean%2C+intelligent+systems" alt="P. V. Chaitanya" />
