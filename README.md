@@ -71,9 +71,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,50:2563eb,100:0f172a" width="70%" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://chaitanya-p-v-portfolio.vercel.app/" target="_blank">
@@ -91,8 +91,8 @@
   </sub>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,50:2563eb,100:0f172a" width="70%" />
-</p>
+</p> -->
 
 ---
