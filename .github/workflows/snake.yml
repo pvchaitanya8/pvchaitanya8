@@ -5,12 +5,12 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Generate snake animation
@@ -20,8 +20,9 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=#2563eb&color_dots=#0f172a,#1e293b,#2563eb,#38bdf8,#93c5fd
 
-      - name: Push snake animation to output branch
+      - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
