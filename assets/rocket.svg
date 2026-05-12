@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <style>
+    .rocket {
+      animation: float 1.8s ease-in-out infinite;
+    }
+
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+      100% { transform: translateY(0px); }
+    }
+  </style>
+
+  <text class="rocket" x="5" y="32" font-size="30">🚀</text>
+</svg>
