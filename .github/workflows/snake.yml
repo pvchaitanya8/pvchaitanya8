@@ -19,8 +19,7 @@ jobs:
           github_user_name: pvchaitanya8
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#38bdf8
-            dist/github-snake-blue.svg?color_snake=#2563eb&color_dots=#0f172a,#1e293b,#334155,#2563eb,#38bdf8
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v4
