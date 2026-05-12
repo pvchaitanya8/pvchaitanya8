@@ -1,53 +1,34 @@
-<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .emoji {
-      font-size: 34px;
-      transform-origin: center;
-      transition: transform 0.35s ease, filter 0.35s ease;
-    }
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#2563EB" flood-opacity="0.25"/>
+    </filter>
+  </defs>
 
-    svg:hover .emoji {
-      transform: rotate(-12deg) scale(1.18);
-      filter: drop-shadow(0 0 8px rgba(96, 165, 250, 0.9));
-    }
+  <g filter="url(#softShadow)">
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0; 0 -2; 0 0"
+      dur="1.8s"
+      repeatCount="indefinite"
+    />
 
-    .orbit {
-      opacity: 0;
-      transform-origin: center;
-      transition: opacity 0.35s ease;
-    }
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      values="0 24 24; -5 24 24; 0 24 24; 5 24 24; 0 24 24"
+      dur="2.4s"
+      repeatCount="indefinite"
+      additive="sum"
+    />
 
-    svg:hover .orbit {
-      opacity: 1;
-      animation: spin 1.4s linear infinite;
-    }
-
-    @keyframes spin {
-      from {
-        transform: rotate(0deg);
-      }
-      to {
-        transform: rotate(360deg);
-      }
-    }
-  </style>
-
-  <circle
-    class="orbit"
-    cx="28"
-    cy="28"
-    r="23"
-    fill="none"
-    stroke="#60A5FA"
-    stroke-width="2"
-    stroke-dasharray="5 7"
-  />
-
-  <text
-    class="emoji"
-    x="50%"
-    y="50%"
-    dominant-baseline="central"
-    text-anchor="middle"
-  >🔭</text>
+    <text
+      x="50%"
+      y="50%"
+      dominant-baseline="central"
+      text-anchor="middle"
+      font-size="32"
+    >🔭</text>
+  </g>
 </svg>
