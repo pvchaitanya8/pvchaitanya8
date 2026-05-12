@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <style>
+    .wave {
+      animation: wave-animation 1.8s infinite;
+      transform-origin: 70% 70%;
+      transform-box: fill-box;
+    }
+
+    @keyframes wave-animation {
+      0% { transform: rotate(0deg); }
+      10% { transform: rotate(14deg); }
+      20% { transform: rotate(-8deg); }
+      30% { transform: rotate(14deg); }
+      40% { transform: rotate(-4deg); }
+      50% { transform: rotate(10deg); }
+      60% { transform: rotate(0deg); }
+      100% { transform: rotate(0deg); }
+    }
+  </style>
+
+  <text class="wave" x="3" y="33" font-size="32">👋</text>
+</svg>
