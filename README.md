@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm P. V. Chaitanya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=40&lines=💻+AI%2FML+Software+Developer;⚙️+Tech+Enthusiast" alt="P. V. Chaitanya" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=40&lines=💻+AI%2FML+Software+Developer;⚙️+Building+clean%2C+intelligent+systems" alt="P. V. Chaitanya" />
 </p>
 
 <p align="center">
@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit_Site-%2300009c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,50:2563eb,100:0f172a" width="70%" />
+</p>
 
 ## 🚀 Stats & Activity
 
@@ -49,4 +51,6 @@
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,50:2563eb,100:0f172a" width="70%" />
+</p>
