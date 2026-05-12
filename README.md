@@ -24,6 +24,15 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit_Site-%2300009c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />  </a>
 </p>
 
+<h2 align="left">
+  <img src="./assets/about-me.svg" width="34" alt="Telescope" />
+  About Me
+</h2>
+
+- ⛩️ Currently working on: A local-first, AI-powered cognitive workspace
+- 🌱 Core Stack: Backend Development, AI/ML, and Cloud Infrastructure
+- 📫 Feel free to reach out via mail at venkatachaitanya373@gmail.com!
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,50:2563eb,100:0f172a" width="70%" />
 </p>
