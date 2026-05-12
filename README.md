@@ -25,7 +25,7 @@
 </p>
 
 <h2 align="left">
-  <img src="./assets/about-me.svg" width="34" alt="Telescope" />
+  <img src="./assets/aboutMe.svg" width="34" alt="Telescope" />
   About Me
 </h2>
 
