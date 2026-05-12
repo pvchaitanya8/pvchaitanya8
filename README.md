@@ -33,7 +33,7 @@
 
 - ⛩️ Currently working on: A local-first, AI-powered cognitive workspace
 - 🌱 Core Stack: Backend Development, AI/ML, and Cloud Infrastructure
-- 📫 Feel free to reach out via mail at venkatachaitanya373@gmail.com!
+- 📫 Feel free to reach out via mail at venkatachaitanya373@gmail.com !
 
 ---
 
@@ -72,3 +72,25 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,50:2563eb,100:0f172a" width="70%" />
 </p>
+
+<p align="center">
+  <a href="https://chaitanya-p-v-portfolio.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Check-My_Portfolio-%232563eb?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Check my Portfolio" 
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/gear.svg" width="18" alt="Gear" />
+  <sub>
+    Experiments in AI, systems, and clean engineering.
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0f172a,50:2563eb,100:0f172a" width="70%" />
+</p>
+
+---
